@@ -7,7 +7,7 @@ Each topic folder has a `README.md` with:
 - My Submission Link  
 
 👉 My LeetCode Profile: [vansh1505](https://leetcode.com/u/vansh1505/)  
-👉 My GFG Profile: [Vansh Sharma](https://auth.geeksforgeeks.org/user/vansh1505)  
+👉 My GFG Profile: [vansh1505]((https://www.geeksforgeeks.org/user/vansh1505/))  
 
 ## Topics
 - [Arrays](./Arrays/README.md)
