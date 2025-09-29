@@ -10,7 +10,7 @@
 | 6    | 141  | Linked List Cycle                | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://leetcode.com/submissions/detail/1784861207/) |
 | 7    | 142  | Linked List Cycle II             | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://leetcode.com/submissions/detail/1710130392/) |
 | 8    | 160  | Intersection of Two Linked Lists | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://leetcode.com/submissions/detail/1784903379/) |
-| 9    | 2    | Add Two Numbers                  | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | - |
+| 9    | 2    | Add Two Numbers                  | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | [Link](https://leetcode.com/submissions/detail/1786333429/) |
 | 10   | 25   | Reverse Nodes in k-Group         | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | - |
 | 11   | 61   | Rotate List                      | [LeetCode](https://leetcode.com/problems/rotate-list/) | - |
 | 12   | 138  | Copy List with Random Pointer    | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) | - |
