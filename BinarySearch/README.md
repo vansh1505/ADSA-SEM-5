@@ -4,7 +4,7 @@
 |------|------|------------------------------------------|--------------|----------------|
 | 1    | 441  | Arranging Coins                          | [LeetCode](https://leetcode.com/problems/arranging-coins/) | [Link](https://leetcode.com/submissions/detail/1754247775/) |
 | 2    | 704  | Binary Search                            | [LeetCode](https://leetcode.com/problems/binary-search/) | [Link](https://leetcode.com/submissions/detail/1705438186/) |
-| 3    | GFG  | Floor in a Sorted Array                  | [GFG](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | - |
+| 3    | GFG  | Floor in a Sorted Array                  | [GFG](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | [Solution](/BinarySearch/floor-in-sorted-array.java) |
 | 4    | 35   | Search Insert Position                   | [LeetCode](https://leetcode.com/problems/search-insert-position/) | [Link](https://leetcode.com/submissions/detail/1778349718/) |
 | 5    | 33   | Search in Rotated Sorted Array           | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1774912923/) |
 | 6    | 81   | Search in Rotated Sorted Array II        | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Link](https://leetcode.com/submissions/detail/1790380556/) |
