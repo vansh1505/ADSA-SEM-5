@@ -15,3 +15,4 @@ Each topic folder has a `README.md` with:
 - [Sliding Window](./SlidingWindow/README.md)
 - [Binary Search](./BinarySearch/README.md)
 - [Linked List](./LinkedList/README.md)
+- [Stacks and Queues](./Stacks%20and%20Queues/README.md)
