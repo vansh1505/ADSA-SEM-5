@@ -16,3 +16,4 @@ Each topic folder has a `README.md` with:
 - [Binary Search](./BinarySearch/README.md)
 - [Linked List](./LinkedList/README.md)
 - [Stacks and Queues](./Stacks%20and%20Queues/README.md)
+- [Trees](./Trees/README.md)
