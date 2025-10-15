@@ -1,5 +1,7 @@
 # Trees
 
+## Binary Trees
+
 | S.No | ID   | Title                                  | Problem Link | Submission Link |
 |------|------|----------------------------------------|--------------|----------------|
 | 1    | 144   | Binary Tree Preorder Traversal            | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Link](https://leetcode.com/submissions/detail/1798910305/) |
@@ -16,3 +18,13 @@
 | 12   | 987  | Vertical Order Traversal of a Binary Tree       | [LeetCode](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | - |
 | 13   | 124  | Binary Tree Maximum Path Sum       | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | - |
 | 14   | 226  | Invert Binary Tree       | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | [Link](https://leetcode.com/submissions/detail/1799069193/) |
+
+## Binary Search Trees
+
+| S.No | ID   | Title                                  | Problem Link | Submission Link |
+|------|------|----------------------------------------|--------------|----------------|
+| 1    | 700  | Search in a Binary Search Tree            | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Link](https://leetcode.com/submissions/detail/1802239885/) |
+| 2    | GFG | Ceil in BST            | [GFG](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | [Solution](./findCeil.java) |
+| 3    | GFG | Floor in BST            | [GFG](https://www.geeksforgeeks.org/floor-in-bst/) | - |
+| 4    | 701  | Insert into a Binary Search Tree           | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Link](https://leetcode.com/submissions/detail/1802268379) |
+| 5    | 450  | Delete Node in a BST         | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | [Link](https://leetcode.com/submissions/detail/1802293762/) |
