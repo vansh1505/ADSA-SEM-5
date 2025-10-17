@@ -25,6 +25,9 @@
 |------|------|----------------------------------------|--------------|----------------|
 | 1    | 700  | Search in a Binary Search Tree            | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Link](https://leetcode.com/submissions/detail/1802239885/) |
 | 2    | GFG | Ceil in BST            | [GFG](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | [Solution](./findCeil.java) |
-| 3    | GFG | Floor in BST            | [GFG](https://www.geeksforgeeks.org/floor-in-bst/) | - |
+| 3    | GFG | Floor in BST            | [GFG](https://www.geeksforgeeks.org/problems/floor-in-bst/0) | [Solution](./findFloor.java) |
 | 4    | 701  | Insert into a Binary Search Tree           | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Link](https://leetcode.com/submissions/detail/1802268379) |
 | 5    | 450  | Delete Node in a BST         | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | [Link](https://leetcode.com/submissions/detail/1802293762/) |
+| 6    | 230 | Kth Smallest Element in a BST         | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Link](https://leetcode.com/submissions/detail/1804448851/) |
+| 7    | 98  | Validate Binary Search Tree         | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | [Link](https://leetcode.com/submissions/detail/1803153630/) |
+| 8 | 653 | Two Sum IV - Input is a BST         | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Link](https://leetcode.com/submissions/detail/1804225192/) |
