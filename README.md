@@ -31,4 +31,12 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
