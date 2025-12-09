@@ -22,10 +22,12 @@ Each topic folder has a `README.md` with:
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -41,4 +43,8 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
