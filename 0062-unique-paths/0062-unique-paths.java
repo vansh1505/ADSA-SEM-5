@@ -10,6 +10,9 @@ class Solution {
         if (r >= m || c >= n) return 0;
         if(dp[r][c] != -1) return dp[r][c];
 
-        return dp[r][c] = solve(r + 1, c, m, n, dp) + solve(r, c + 1, m, n, dp);
+        int bottom = solve(r + 1, c, m, n, dp);
+        int right = solve(r, c + 1, m, n, dp);
+
+        return dp[r][c] = bottom + right;
     }
 }
