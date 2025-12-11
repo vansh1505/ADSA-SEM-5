@@ -29,6 +29,7 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -40,6 +41,7 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0046-permutations](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
