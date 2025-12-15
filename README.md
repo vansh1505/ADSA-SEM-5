@@ -32,6 +32,7 @@ Each topic folder has a `README.md` with:
 | [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -46,6 +47,7 @@ Each topic folder has a `README.md` with:
 | [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
