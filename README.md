@@ -35,6 +35,7 @@ Each topic folder has a `README.md` with:
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
 |  |
 | ------- |
@@ -63,4 +64,8 @@ Each topic folder has a `README.md` with:
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
+## String
+|  |
+| ------- |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
