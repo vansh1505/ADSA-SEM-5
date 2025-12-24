@@ -22,6 +22,7 @@ Each topic folder has a `README.md` with:
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -68,4 +69,8 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
