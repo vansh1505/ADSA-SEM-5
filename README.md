@@ -30,6 +30,7 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
@@ -68,6 +69,7 @@ Each topic folder has a `README.md` with:
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0072-edit-distance) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Recursion
 |  |
