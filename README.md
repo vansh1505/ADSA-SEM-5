@@ -38,6 +38,7 @@ Each topic folder has a `README.md` with:
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
 | ------- |
