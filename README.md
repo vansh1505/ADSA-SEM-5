@@ -32,6 +32,7 @@ Each topic folder has a `README.md` with:
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
@@ -49,6 +50,7 @@ Each topic folder has a `README.md` with:
 | [0046-permutations](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
@@ -92,4 +94,8 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
