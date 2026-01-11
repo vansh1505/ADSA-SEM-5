@@ -31,6 +31,7 @@ Each topic folder has a `README.md` with:
 | [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
@@ -49,6 +50,7 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0046-permutations](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
@@ -67,6 +69,7 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 ## String
@@ -106,4 +109,12 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
