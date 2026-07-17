@@ -63,6 +63,7 @@ Each topic folder has a `README.md` with:
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Backtracking
@@ -81,6 +82,7 @@ Each topic folder has a `README.md` with:
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
@@ -111,6 +113,7 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
