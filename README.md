@@ -62,6 +62,7 @@ Each topic folder has a `README.md` with:
 | [0300-longest-increasing-subsequence](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
+| [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
@@ -135,10 +136,12 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0085-maximal-rectangle) |
+| [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0085-maximal-rectangle) |
+| [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +171,8 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sorting
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
