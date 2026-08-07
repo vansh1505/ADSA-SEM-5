@@ -24,6 +24,7 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0050-powx-n](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
+| [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -63,6 +64,7 @@ Each topic folder has a `README.md` with:
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
+| [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
