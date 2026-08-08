@@ -61,6 +61,7 @@ Each topic folder has a `README.md` with:
 | [0120-triangle](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0137-single-number-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0137-single-number-ii) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0300-longest-increasing-subsequence) |
@@ -181,4 +182,8 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
