@@ -76,6 +76,7 @@ Each topic folder has a `README.md` with:
 | [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0137-single-number-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
 | ------- |
