@@ -27,6 +27,7 @@ Each topic folder has a `README.md` with:
 | [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1510-stone-game-iv) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Each topic folder has a `README.md` with:
 | [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
