@@ -72,6 +72,7 @@ Each topic folder has a `README.md` with:
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
+| [0575-distribute-candies](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0575-distribute-candies) |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 | [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
@@ -145,6 +146,7 @@ Each topic folder has a `README.md` with:
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0575-distribute-candies) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
