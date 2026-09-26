@@ -68,6 +68,7 @@ Each topic folder has a `README.md` with:
 | [0137-single-number-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0137-single-number-ii) |
 | [0174-dungeon-game](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -85,6 +86,7 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0046-permutations) |
+| [0216-combination-sum-iii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
 |  |
 | ------- |
