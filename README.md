@@ -104,6 +104,7 @@ Each topic folder has a `README.md` with:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0940-distinct-subsequences-ii) |
@@ -148,6 +149,7 @@ Each topic folder has a `README.md` with:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0575-distribute-candies](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0575-distribute-candies) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -189,6 +191,7 @@ Each topic folder has a `README.md` with:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
