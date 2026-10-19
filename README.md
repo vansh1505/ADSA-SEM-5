@@ -79,6 +79,7 @@ Each topic folder has a `README.md` with:
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -169,6 +170,7 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Graph
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
