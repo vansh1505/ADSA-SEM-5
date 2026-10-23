@@ -82,6 +82,7 @@ Each topic folder has a `README.md` with:
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3925-concatenate-array-with-reverse](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
@@ -205,6 +206,7 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0137-single-number-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
