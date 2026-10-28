@@ -117,6 +117,7 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -236,4 +237,8 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3925-concatenate-array-with-reverse) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
