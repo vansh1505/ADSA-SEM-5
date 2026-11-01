@@ -24,6 +24,7 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0050-powx-n](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1510-stone-game-iv) |
@@ -73,6 +74,7 @@ Each topic folder has a `README.md` with:
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0575-distribute-candies](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0575-distribute-candies) |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 | [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
