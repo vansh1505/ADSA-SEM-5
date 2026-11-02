@@ -25,6 +25,7 @@ Each topic folder has a `README.md` with:
 | [0050-powx-n](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1510-stone-game-iv) |
@@ -75,6 +76,7 @@ Each topic folder has a `README.md` with:
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0575-distribute-candies) |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 | [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
@@ -203,6 +205,7 @@ Each topic folder has a `README.md` with:
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
