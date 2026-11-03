@@ -30,6 +30,7 @@ Each topic folder has a `README.md` with:
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1510-stone-game-iv) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Each topic folder has a `README.md` with:
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
