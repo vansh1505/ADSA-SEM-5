@@ -78,6 +78,7 @@ Each topic folder has a `README.md` with:
 | [0416-partition-equal-subset-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0575-distribute-candies) |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 | [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
@@ -156,6 +157,7 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0561-array-partition) |
 | [0853-car-fleet](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0853-car-fleet) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -248,4 +251,8 @@ Each topic folder has a `README.md` with:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
