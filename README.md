@@ -87,6 +87,7 @@ Each topic folder has a `README.md` with:
 | [1267-count-servers-that-communicate](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3644-maximum-k-to-sort-a-permutation) |
