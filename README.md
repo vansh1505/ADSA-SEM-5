@@ -29,6 +29,7 @@ Each topic folder has a `README.md` with:
 | [0908-smallest-range-i](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ Each topic folder has a `README.md` with:
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1510-stone-game-iv](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Each topic folder has a `README.md` with:
 | [0931-minimum-falling-path-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -207,6 +210,7 @@ Each topic folder has a `README.md` with:
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Sliding Window
