@@ -125,6 +125,7 @@ Each topic folder has a `README.md` with:
 | [0072-edit-distance](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0940-distinct-subsequences-ii) |
+| [1078-occurrences-after-bigram](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1078-occurrences-after-bigram) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Recursion
