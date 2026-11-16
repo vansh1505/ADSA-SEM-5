@@ -128,6 +128,7 @@ Each topic folder has a `README.md` with:
 | [1078-occurrences-after-bigram](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1078-occurrences-after-bigram) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Each topic folder has a `README.md` with:
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
