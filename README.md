@@ -30,6 +30,7 @@ Each topic folder has a `README.md` with:
 | [1137-n-th-tribonacci-number](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ Each topic folder has a `README.md` with:
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansh1505/ADSA-SEM-5/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -221,6 +223,7 @@ Each topic folder has a `README.md` with:
 | [0003-longest-substring-without-repeating-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -272,4 +275,12 @@ Each topic folder has a `README.md` with:
 | ------- |
 | [0561-array-partition](https://github.com/vansh1505/ADSA-SEM-5/tree/master/0561-array-partition) |
 | [1267-count-servers-that-communicate](https://github.com/vansh1505/ADSA-SEM-5/tree/master/1267-count-servers-that-communicate) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vansh1505/ADSA-SEM-5/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
